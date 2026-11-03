@@ -52,20 +52,20 @@ For detailed steps, charts, and methodologies used during the exploratory data a
 ## Visualizations and Dashboard
 The project involved plotting the following key graphs:
 - Category vs Revenue
-  <img width="1423" height="950" alt="image" src="https://github.com/user-attachments/assets/35aedbb0-2f12-4dcc-b397-3f69250e6f11" />
+<img width="1423" height="950" alt="image" src="https://github.com/user-attachments/assets/3da56b66-a1d3-4c2e-82b2-c62d08194eba" />
 
 - Product vs Revenue
-  <img width="1252" height="933" alt="image" src="https://github.com/user-attachments/assets/e1815ed4-8ddc-4043-afc5-3ae3a01adf4f" />
+<img width="1878" height="1075" alt="image" src="https://github.com/user-attachments/assets/2404a997-496e-437f-8c93-4ed695cbc5d4" />
 
 - Region vs Revenue
-  <img width="1297" height="759" alt="image" src="https://github.com/user-attachments/assets/983086cf-1e1f-42e6-ae6e-7984f8686b67" />
+<img width="1297" height="759" alt="image" src="https://github.com/user-attachments/assets/557f691d-1ce8-492b-9b2d-b28b1eeb0637" />
 
 - Revenue over time
-  <img width="1379" height="795" alt="image" src="https://github.com/user-attachments/assets/cd012b19-54ce-47d2-9633-1fa4c82d4b51" />
+<img width="1379" height="795" alt="image" src="https://github.com/user-attachments/assets/79ca85ba-061b-4081-a907-9d643dc98c61" />
 
 - Discount vs Revenue   
-<img width="1253" height="828" alt="image" src="https://github.com/user-attachments/assets/77dadee9-645c-4cdf-b345-16cd07a26517" />
+<img width="1253" height="828" alt="image" src="https://github.com/user-attachments/assets/e293c7fa-0001-4741-a392-a0ab7fb9b9b4" />
 
 A centralized Sales Performance Dashboard was generated to visualize total revenue, top-performing regions, and products, integrating slicers for dynamic region and date filtering. 
 
-<img width="2078" height="1037" alt="image" src="https://github.com/user-attachments/assets/967c37f8-5543-45d9-bb29-57e16307c2fc" />
+<img width="2085" height="1065" alt="image" src="https://github.com/user-attachments/assets/c69205be-61b5-471a-b4f3-9b84a53df2ef" />
