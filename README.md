@@ -67,3 +67,5 @@ The project involved plotting the following key graphs:
 <img width="1253" height="828" alt="image" src="https://github.com/user-attachments/assets/77dadee9-645c-4cdf-b345-16cd07a26517" />
 
 A centralized Sales Performance Dashboard was generated to visualize total revenue, top-performing regions, and products, integrating slicers for dynamic region and date filtering. 
+
+<img width="2078" height="1037" alt="image" src="https://github.com/user-attachments/assets/967c37f8-5543-45d9-bb29-57e16307c2fc" />
