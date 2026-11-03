@@ -51,7 +51,9 @@ For detailed steps, charts, and methodologies used during the exploratory data a
 
 ## Visualizations and Dashboard
 The project involved plotting the following key graphs:
-- Category vs Revenue   
+- Category vs Revenue
+  <img width="1423" height="950" alt="image" src="https://github.com/user-attachments/assets/35aedbb0-2f12-4dcc-b397-3f69250e6f11" />
+
 - Product vs Revenue   
 - Region vs Revenue   
 - Revenue over time   
