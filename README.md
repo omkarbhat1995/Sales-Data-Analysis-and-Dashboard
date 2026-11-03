@@ -54,9 +54,16 @@ The project involved plotting the following key graphs:
 - Category vs Revenue
   <img width="1423" height="950" alt="image" src="https://github.com/user-attachments/assets/35aedbb0-2f12-4dcc-b397-3f69250e6f11" />
 
-- Product vs Revenue   
-- Region vs Revenue   
-- Revenue over time   
+- Product vs Revenue
+  <img width="1252" height="933" alt="image" src="https://github.com/user-attachments/assets/e1815ed4-8ddc-4043-afc5-3ae3a01adf4f" />
+
+- Region vs Revenue
+  <img width="1297" height="759" alt="image" src="https://github.com/user-attachments/assets/983086cf-1e1f-42e6-ae6e-7984f8686b67" />
+
+- Revenue over time
+  <img width="1379" height="795" alt="image" src="https://github.com/user-attachments/assets/cd012b19-54ce-47d2-9633-1fa4c82d4b51" />
+
 - Discount vs Revenue   
+<img width="1253" height="828" alt="image" src="https://github.com/user-attachments/assets/77dadee9-645c-4cdf-b345-16cd07a26517" />
 
 A centralized Sales Performance Dashboard was generated to visualize total revenue, top-performing regions, and products, integrating slicers for dynamic region and date filtering. 
