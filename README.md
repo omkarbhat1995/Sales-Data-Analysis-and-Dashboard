@@ -1,4 +1,5 @@
 # Sales Data Cleaning and Dashboard
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
 
 ## Overview: 
 This project focuses on cleaning, preprocessing, and analyzing a sales dataset to extract actionable business insights. It features comprehensive data cleaning steps, handling of missing values, and the creation of an interactive dashboard to visualize sales performance across different dimensions.   
