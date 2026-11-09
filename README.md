@@ -8,7 +8,7 @@ This project focuses on cleaning, preprocessing, and analyzing a sales dataset t
 ## 📑 Table of Contents
 - [Dataset Characteristics](#-data-characteristics)
 
-- [Data Engineering & Preprocessing]()
+- [Data Engineering & Preprocessing](#-data-engineering-&-preprocessing)
 
 - [Exploratory Data Analysis (EDA) & Statistics]()
 
@@ -34,23 +34,21 @@ The dataset underwent strict cleaning protocols to ensure the integrity of the d
 
 1. Standardization:
 
-  - Deduplication: Verified zero duplicate transaction rows.
+    - Deduplication: Verified zero duplicate transaction rows.
 
-  - Formatting: Transformed Customer Name strings to Proper format. Converted Discount values from string representations to strict numerical formats. Standardized Date column to Short Date Format.
+    - Formatting: Transformed Customer Name strings to Proper format. Converted Discount values from string representations to strict numerical formats. Standardized Date column to Short Date Format.
 
 2. Handling Missing Values (Data Integrity Decisions):
 
-  - Region (24 missing): Rows deleted. Reasoning: Imputing geographic data via mode risks artificially skewing regional statistics and misleading subsequent geographical analysis.
+    - Region (24 missing): Rows deleted. Reasoning: Imputing geographic data via mode risks artificially skewing regional statistics and misleading subsequent geographical analysis.
 
-  - Customer Name (21 missing): Left blank. Reasoning: Missing personal identifiers do not hamper or skew aggregate quantitative revenue analysis.
+    - Customer Name (21 missing): Left blank. Reasoning: Missing personal identifiers do not hamper or skew aggregate quantitative revenue analysis.
 
-  - Price (15 missing): Rows deleted. Reasoning: Price variance is highly subjective; identical products sold in the same region on the same date exhibited significant price fluctuations. Imputing with mean or median would introduce inaccurate data points detrimental to revenue modeling.
+    - Price (15 missing): Rows deleted. Reasoning: Price variance is highly subjective; identical products sold in the same region on the same date exhibited significant price fluctuations. Imputing with mean or median would introduce inaccurate data points detrimental to revenue modeling.
 
 3. Feature Engineering:
 
-  - Recalculated the Total revenue column using the standardized formula: Total = Quantity * Price * (1 - Discount).
-
-  - Final Dataset Size: 962 rows retained for analysis.   
+    - Recalculated the Total revenue column using the standardized formula: Total = Quantity * Price * (1 - Discount). 
 
 ### Final Dataset Size: 962 rows left after handling missing values.   
 
