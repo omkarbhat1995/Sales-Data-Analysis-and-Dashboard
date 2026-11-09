@@ -6,7 +6,7 @@
 This project focuses on cleaning, preprocessing, and analyzing a sales dataset to extract actionable business insights. It features comprehensive data cleaning steps, handling of missing values, and the creation of an interactive dashboard to visualize sales performance across different dimensions.   
 
 ## 📑 Table of Contents
-- [Dataset Characteristics]()
+- [Dataset Characteristics](#-data-characteristics)
 
 - [Data Engineering & Preprocessing]()
 
